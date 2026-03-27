@@ -1,0 +1,18 @@
+// Geordan J. Justo Apaza
+// Resumen Semana 1
+Las estructuras de datos son una forma de organizar y almacenar datos. Se estructuran datos de forma ordenada para realizar operaciones específicas.
+Sirven para determinar la eficiencia de un programa, gestionando el almacenamiento y la manipulación de datos. 
+
+Existen dos tipos principales: estáticas y dinámicas.
+	Estructuras estáticas: No pueden cambiar durante la ejecución del programa.
+		* Arreglos - Arrays
+		* Matrices
+	Estructuras dinámicas:	
+		* Lineales: Permiten que el tamaño y la organización cambien durante la ejecución  del programa.
+			+ Listas enlazadas - Linked Lists
+			+ Pilas - Stacks
+			+ Colas - Queues
+		* No lineales: Útiles para resolver problemas complejos, tienen una organización jerárquica.
+			+ Árboles - Trees
+			+ Grafos - Graphs
+			+ Tablas Hash - Hash Tables
